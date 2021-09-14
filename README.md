@@ -1,6 +1,7 @@
 # SOBRE O SITE
 
 O site Clinica Médica Ema foi desenvolvido para o Laboratório 1A, da disciplina de **Ambientes de Desenvolvimento de Software**.
+Ele foi inspirado no site da Clinica SantaMed.
 
 **Universidade:** Universidade de Fortaleza - UNIFOR
 
